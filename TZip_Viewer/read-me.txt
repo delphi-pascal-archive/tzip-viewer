@@ -1,0 +1,19 @@
+TZip v.1.2 Component - Read information about zipped files.
+
+FREEWARE WITH SOURCE
+
+Pier Carlo Chiodi
+My URL: http://www.geocities.com/SiliconValley/Park/6159
+E-Mail: pc.chiodi@mbox.thunder.it
+
+Installation
+
+1. Copy TZip.pas and TZip.dcr into a directory.
+2. In Delphi, select Component - Install menu option.
+3. Select Add... button
+4. Select Browse
+5. Select TZip.pas in the directory from step 1
+6. Select OK
+   
+The component library will now re-compile, and when it is finished you should
+have a TZip component on your Samples tab.
